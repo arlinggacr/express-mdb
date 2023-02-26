@@ -1,0 +1,21 @@
+{
+  "name": "express-mdb",
+  "version": "1.0.0",
+  "description": "Express mdb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/arlinggacr/mdb"
+  },
+  "author": "acr",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  }
+}
